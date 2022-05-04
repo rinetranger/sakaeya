@@ -1,5 +1,5 @@
 /**
-* Template Name: 栄屋 - v3.7.0
+* Template Name: 栄家 
 
 */
 (function() {
@@ -274,3 +274,5 @@
   });
 
 })()
+
+
